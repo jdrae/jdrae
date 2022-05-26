@@ -1,7 +1,7 @@
 ### 📝️ Articles
 
 Computer Science
-* [데이터베이스](https://github.com/jdrae/TIL/blob/master/101/database.md) | [네트워크](https://github.com/jdrae/TIL/blob/master/101/network.md) |  [웹](https://github.com/jdrae/TIL/blob/master/101/web.md)  |  [스프링](https://github.com/jdrae/TIL/blob/master/101/spring.md)  |  [파이썬](https://github.com/jdrae/TIL/blob/master/101/python.md) | [장고](https://github.com/jdrae/TIL/blob/master/101/django.md)
+* [운영체제](https://github.com/jdrae/TIL/blob/master/101/operating_system.md) | [데이터베이스](https://github.com/jdrae/TIL/blob/master/101/database.md) | [네트워크](https://github.com/jdrae/TIL/blob/master/101/network.md) |  [웹](https://github.com/jdrae/TIL/blob/master/101/web.md)  |  [스프링](https://github.com/jdrae/TIL/blob/master/101/spring.md)  |  [파이썬](https://github.com/jdrae/TIL/blob/master/101/python.md) | [장고](https://github.com/jdrae/TIL/blob/master/101/django.md)
 
 Backend / Server
 * [대규모 웹 서비스의 부하 처리](https://github.com/jdrae/TIL/blob/master/columns/massive_traffic.md)
